@@ -1,0 +1,51 @@
+body {
+    background-image: url(/home/palinkaskrisztian/Asztal/nemet/nemetjuhasz-feladat_HTML_CSS/forras/img/background/keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    color:#4d0808
+}
+#kutyaoldal {
+    background-color: rgba(255, 255, 255, 0.4);
+    width:70%;
+    margin: auto;
+    padding: 20px;
+
+}
+a {
+    color:#4d0808;
+}
+h1 {
+    text-align: center;
+
+}
+p {
+    text-indent: 1cm;
+    text-height: 1,5;
+}
+.minikep {
+    width: 400px;
+    float: right;
+    margin-left: 20px;
+    border: solid; 
+    border-color: #4d0808;
+
+}
+table , tr, td{
+    border: 1px solid #aa7777;
+    padding: 0,5rem;
+    border-collapse: collapse;
+    align-self: center;
+
+}
+.kepek {
+    text-align: center;
+    float: none;
+}
+.kep{
+    width:280px;
+    vertical-align: middle;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #4d0808;
+    background-color: white;
+    box-shadow: 3px 3px 10px #4d0808;
+
+}
